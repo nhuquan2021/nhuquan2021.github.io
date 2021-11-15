@@ -1,0 +1,174 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	height: 4000px;
+}
+.header ul li{
+	display: inline;
+	padding-left: 40px;
+}
+.header ul{
+	display: inline;
+	padding-left: 300px;
+	padding-top: -50px;
+}
+.header ul li:hover{
+	color: #287EE5;
+}
+.header .nutbam{
+	margin-left: 150px;
+	padding: 10px 20px;
+	border-style: double;
+	background-color: white;	
+}
+.nutbam:hover{
+	background: #287EE5;
+}
+.header{
+	background-color: white;
+	height: 110px;
+	position: fixed !important;
+	margin-top: -60px;
+	width: 2000px;
+}
+
+
+.background{
+	background-image:url("s-migaj-Yui5vfKHuzs-unsplash.jpg");
+	background-size: cover;
+	height: 700px;
+	
+	text-align: center;
+	color: white;
+	margin-top: 60px;
+		
+}
+
+.background .h1{
+	font-size: 50px;
+	padding-top: 300px;
+}
+.background .nutbam1{
+	padding: 15px 30px;
+	margin-left: 50px;
+	background-color: white;
+	border-style:double;
+}
+.nutbam1:hover{
+	background-color: #287EE5;
+	border-color: black;
+	
+}
+.nutbam1{
+	background-color: white;
+	border-bottom-color: black;
+	border-style: outset;
+}
+.background .nutbam2{
+	margin-left: -15px;
+	
+}
+.text .text1{
+	float: left;
+	width: 43%;
+	padding: 50px 0px 0px 80px;
+	color: white;
+}
+
+.nutbam4 {
+	float: right;
+	margin: 60px 200px;
+	border-style: double;
+	background-color: white;
+	height: 50px;
+	width: 150px;
+	border-bottom-color: black;
+	
+}
+.text{
+	background-color: deepskyblue;
+	height: 200px;
+}
+.nutbam4:hover{
+	background: #287EE5;
+	border-bottom-color: black;
+}
+.anh5{
+	width: 400px;
+}
+.anh{
+	display: flex;
+    justify-content: space-around;
+	margin-top: 100px;
+}
+.anh h3:hover{
+	color:  #287EE5;
+}
+.hotline{
+	position: fixed !important;
+	right: 50px;
+	bottom: 50px;
+	z-index: 5;
+	
+}
+.body{
+	display: flex;
+	justify-content: space-around;
+	margin-top: 100px;
+	background-color: #C3C1C1;
+	padding: 50px 50px;
+}
+.nutbam5{
+	border: none;
+	width: 90px;
+	height: 40px;
+	background-color: #287EE5;
+	font-size: 20px;
+}
+.nutbam5:hover{
+	background-color: black;
+	color: aliceblue;
+}
+.anh-bien{
+	width: 400px;
+}
+.out-team {
+	text-align: center;
+	display: flex;
+	justify-content: space-around;
+	margin-top: 100px;
+}
+.out-team-2{
+	text-align: center;
+	margin-top: 100px;
+}
+.out-team-2 hr{
+	width: 10%;
+	border-style: solid;
+	border-color:  #287EE5;
+}
+.aboat-us-3{
+	display: flex;
+	
+}
+.icon-1{
+	margin-top: 20px;
+	margin-right: 20px;
+}
+.aboat-us-4{
+	display: flex;
+}
+.icon-2{
+	margin-top: 20px;
+	margin-right: 20px;
+}
+.aboat-us-5{
+	display: flex;
+}
+.aboat-us-2{
+	display: flex;
+}
+.icon-3{
+   margin-top: 20px;
+	margin-right: 20px;
+}
